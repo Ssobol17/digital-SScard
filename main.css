@@ -45,6 +45,13 @@ img.profile-pic {
 	height: 100%;
 }
 
+.cent{
+  background-image: url("http://www.murderdoginc.com/wp-content/uploads/2016/08/logoflag.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 700px 400px;
+}
+
 .row {
 	display: flex;
 	justify-content: center;
