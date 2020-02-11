@@ -46,10 +46,12 @@ img.profile-pic {
 }
 
 .cent{
-  background-image: url ("SobolsCover.jpg");
-  background-repeat: no-repeat;
+  background-image: url("SobolsCover.jpg");
+  height: 500px;
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 
 .row {
